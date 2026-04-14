@@ -54,7 +54,7 @@ function doGet(e) {
   } catch (err) {
     return ContentService.createTextOutput("오류: " + err.message);
   }
-
+}
   // 매달 마지막 날 실행될 자동화 함수
 function monthlyBackupAndClear() {
   var ss = SpreadsheetApp.getActiveSpreadsheet();
@@ -80,4 +80,4 @@ function monthlyBackupAndClear() {
   
   console.log(currentMonth + "월 데이터 백업 및 초기화 완료");
 }
-}
+
