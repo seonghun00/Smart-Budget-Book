@@ -1,3 +1,7 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header"/>
+</p>
+
 # 📱 Automated Expense Logging System
 > **iPhone Short cuts + Google Apps Script (GAS)**
 
