@@ -22,7 +22,8 @@
 4. **Maintenance**: 매달 말일, 트리거가 작동하여 월간 합계를 하단 DB로 이동 및 시트 초기화.
 
 ## 📸 Screen Shots
-*(여기에 성훈님이 만든 구글 시트 대시보드와 아이폰 단축어 실행 화면 캡처본을 넣으세요!)*
+<img width="1708" height="656" alt="image" src="https://github.com/user-attachments/assets/ed146191-dcea-42c9-b9ff-3570668a8174" />
+
 
 ## 💻 How to Setup
 1. **Google Sheets**: 제공된 템플릿 형식으로 시트를 구성합니다.
