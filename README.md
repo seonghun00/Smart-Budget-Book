@@ -36,5 +36,8 @@
 3. **iOS Shortcut**: 아이폰 단축어를 생성하고 웹 앱 URL을 연결합니다.
 4. **Action Button**: 아이폰 설정에서 해당 단축어를 액션 버튼으로 지정합니다. (아이폰 15 이상 가능)
 
+
+자세한 추가 내용들은 assets/README.md 에서 확인 가능.
+
 ---
 © 2026 Seong-hun Bae.
