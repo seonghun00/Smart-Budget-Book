@@ -1,5 +1,7 @@
 // Version.13 - 공백 무시 & 셀에 직접 '메모(노트)' 삽입 및 누적 기능
 
+//  [ Google Spread Sheet → 확장 프로그램 → Apps Script ]  //
+
 function doGet(e) {
   try {
     var ss = SpreadsheetApp.getActiveSpreadsheet();
