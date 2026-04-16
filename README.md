@@ -26,8 +26,8 @@
 4. **Maintenance**: 매달 말일, 트리거가 작동하여 월간 합계를 하단 DB로 이동 및 시트 초기화.
 
 ## 📸 Screen Shots
-<img width="1708" height="656" alt="image" src="https://github.com/user-attachments/assets/ed146191-dcea-42c9-b9ff-3570668a8174" />
-<img width="1715" height="688" alt="image" src="https://github.com/user-attachments/assets/ee4aaf93-6d76-4625-8e2a-23173cfec3e9" />
+<img width="1710" height="681" alt="image" src="https://github.com/user-attachments/assets/50d2b0a1-e077-4c6e-bf44-7a932a3eb1df" />
+<img width="1700" height="673" alt="image" src="https://github.com/user-attachments/assets/ef2b476a-d0dd-4e02-a7da-92ef72bbd563" />
 
 
 ## 💻 How to Setup
