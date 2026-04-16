@@ -42,7 +42,9 @@
 
 <br>
 
-자세한 추가 내용들은 assets/README.md 에서 확인 가능.
+**자세한 추가 내용들은 assets/README.md 에서 확인 가능.**
+
+<br>
 
 ---
 © 2026 Seong-hun Bae.
