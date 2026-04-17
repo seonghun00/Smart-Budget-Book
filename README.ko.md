@@ -33,6 +33,7 @@
 
 ## 📸 Screen Shots
 <img width="1710" height="681" alt="image" src="https://github.com/user-attachments/assets/50d2b0a1-e077-4c6e-bf44-7a932a3eb1df" />
+<br>
 <img width="1713" height="681" alt="image" src="https://github.com/user-attachments/assets/c053db7a-3ae0-49f1-81d6-fe513b103f60" />
 
 
