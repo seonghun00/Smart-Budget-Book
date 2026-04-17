@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=header" width="100%" />
 </p>
 
+##### [English](README.md) | **한국어**
+
 # 📱 Automated Expense Logging System
 > **iPhone Short cuts + Google Apps Script (GAS)**
 
