@@ -4,7 +4,7 @@
 
 ##### [English](README.md) | **한국어**
 
-# 📱 자동 가계부 기록 봇
+# 📱 자동 가계부 기록 시스템
 > **아이폰 단축어 + Google Apps Script (GAS)**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
