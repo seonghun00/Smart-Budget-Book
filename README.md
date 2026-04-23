@@ -46,7 +46,7 @@ An automated financial logging system that updates spending data to Google Sheet
 
 <br>
 
-> For a **detailed step-by-step guide**, please check [assets/README.md](./assets/README.md).
+
 
 ---
 © 2026 Seong-hun Bae.
